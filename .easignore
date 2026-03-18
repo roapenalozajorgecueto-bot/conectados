@@ -1,0 +1,33 @@
+# EAS upload ignore list (when using EAS_NO_VCS=1 or when VCS is unavailable)
+
+# Dependencies / caches
+node_modules/
+.npm-cache/
+.expo/
+.expo-home/
+
+# Build outputs
+dist/
+web-build/
+
+# Native folders generated locally
+android/
+ios/
+
+# VCS
+.git/
+
+# Logs
+npm-debug.*
+yarn-debug.*
+yarn-error.*
+*.log
+
+# OS / editor
+.DS_Store
+.vscode/
+
+# Env (este proyecto usa EXPO_PUBLIC_* desde .env para Firebase)
+# Si prefieres no subirlo, define las variables en EAS (Environment variables) y vuelve a ignorarlo.
+.env
+.env.*.local

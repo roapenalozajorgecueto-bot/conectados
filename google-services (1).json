@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "721024926322",
+    "project_id": "conectados-app-afd43",
+    "storage_bucket": "conectados-app-afd43.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:721024926322:android:53f296568c3a58bbafb8eb",
+        "android_client_info": {
+          "package_name": "com.roapenalozajosedavid.conectados"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1C_8DzyKiKRiLdIMn-dpL64b9K1ZIgJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
